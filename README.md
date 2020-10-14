@@ -29,4 +29,4 @@ Project is: _in progress_
 ## Sources
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [@glezzy](https://glezzy.github.io/) - feel free to contact me!
