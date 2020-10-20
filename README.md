@@ -14,7 +14,7 @@ Project is: _in progress_
 Add more general information about project. What the purpose of the project is? Motivation?
 
 ## Screenshots
-![Image of Keyword Heatmap](images/keywordheatmap.png)
+![Image of Keyword Heatmap](images/keywordsheatmap.png)
 ## Feature Engineering 
 
 ### Method 1
