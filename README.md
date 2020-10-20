@@ -1,5 +1,8 @@
 # Feedback Analysis
 
+## Status
+Project is: _in progress_
+
 ## Table of contents
 * [Introduction](#introduction)
 * [Screenshots](#screenshots)
@@ -11,8 +14,7 @@
 Add more general information about project. What the purpose of the project is? Motivation?
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
-
+![Image of Keyword Heatmap](images/keywordheatmap.png)
 ## Feature Engineering 
 
 ### Method 1
@@ -20,9 +22,6 @@ Add more general information about project. What the purpose of the project is? 
 ### Method 2
 
 ### Method 3
-
-## Status
-Project is: _in progress_
 
 ## Conclusion
 
